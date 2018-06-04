@@ -52,7 +52,7 @@ public:
 };
 int main()
 {
-	CMyDate omydate1(1999, 5, 27);
+	CMyDate omydate1(2018, 5, 27);
 	omydate1.display();
     return 0;
 }
